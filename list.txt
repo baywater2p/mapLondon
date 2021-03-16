@@ -1,0 +1,122 @@
+London Amazon Lockers
+----------------------------------
+achieve : amazon : arbutus : ario : audio : awe : azuki : back : banjo : bistre : bitzer : black : blitzen : board : bok : bole : bough : bow : branch : bret : brink : broad : brock : bubba : cal : can : canary : caraway : cash : cedar : celery : celeste : chalice : charlie : chicken : chili : chubby : cinnamon : claw : clear : colomba : colt : comet : concave : connell : convex : cranium : cricklewood : crisp : dali : dancer : dasher : degas : dim : dogrose : dot : doubt : ecstatic : ed : edge : edimame : elisha : fairy : falcon : faust : faye : fenella : finchley : flash : flavin : fleece : flex : flopsy : flower : fog : fulton : gareth : gaz : gemini : gemstone : gillip : goblet : golg : grin : guava : harp : hassium : hayden : haze : hinch : holland : holmes : hope : ice : irina : jemma : jersey : jester : jill : jive : jodie : joey : jolt : jones : jumanji : juniper : justin : kale : katy : keen : khan : kira : kiran : laurel : leah : lema : lilac : lobster : lomo : lucas : lucilla : lyall : lynden : master : mint : monsoon : mouth : mutis : myrtle : nathan : nerve : nest : newbury : newt : niamh : nolan : oat : octagon : onyx : orchid : parker : paul : pen : perseus : posie : post : queen : reznov : ripley : samus : sarah : sign : sorghum : sorrel : spring : swan : tempo : tony : topaz : yoma : zinnia
+
+
+Boroughs
+-----------------
+Barking and Dagenham: 51.5607, 0.1557;
+Barnet: 51.6252, -0.1517;
+Bexley: 51.4549, 0.1505;
+Brent: 51.5588, -0.2817;
+Bromley: 51.4039, 0.0198;
+Camden: 51.5290, -0.1255;
+Croydon: 51.3714, -0.0977;
+Ealing: 51.5130, -0.3089;
+Enfield: 51.6538, -0.0799;
+Greenwich: 51.4892, 0.0648;
+Hackney: 51.5450, -0.0553;
+Hammersmith and Fulham: 51.4927, -0.2339;
+Haringey: 51.6000, -0.1119;
+Harrow: 51.5898, -0.3346;
+Havering: 51.5812, 0.1837;
+Hillingdon: 51.5441, -0.4760;
+Hounslow: 51.4746, -0.3680;
+Islington: 51.5416, -0.1022;
+Kensington and Chelsea: 51.5020, -0.1947;
+Kingston upon Thames: 51.4085, -0.3064;
+Lambeth: 51.4607, -0.1163;
+Lewisham: 51.4452, -0.0209;
+Merton: 51.4014, -0.1958;
+Newham: 51.5077, 0.0469;
+Redbridge: 51.5590, 0.0741;
+Richmond upon Thames: 51.4479, -0.3260;
+Southwark: 51.5035, -0.0804;
+Sutton: 51.3618, -0.1945;
+Tower Hamlets: 51.5099, -0.0059;
+Waltham Forest: 51.5908, -0.0134;
+Wandsworth: 51.4567, -0.1910;
+Westminster: 51.4973, -0.1372;
+CIty of London: 51.5155, -0.0922;
+
+
+Shopping
+-----------
+Hay's Galleria: 51.5057, -0.0834;
+Canary Wharf: 51.5054, -0.0235;
+Whiteleys: 51.5135, -0.1866;
+St. Martins Courtyard: 51.513075, -0.126698;
+High St Kensington: 51.5005, -0.1897;
+Bluewater Shopping: 51.4389, 0.2711;
+Angel Central: 51.5341, -0.1062;
+Oxford Street: 51.515419, -0.141099;
+Whitgift Street: 51.492709, -0.119395;
+Brent Cross: 51.575273, -0.217721;
+Westfield London: 51.507505, -0.221799;
+Hay's Galleria: 51.505003, -0.084155;
+Boxpark Shoreditch: 51.523494, -0.076248;
+Kingly Court: 51.512305, -0.138406;
+
+
+Public Grounds & Commons
+-----------------------------------------
+Italian Gardens: 51.511325,    -0.175471;
+Allotment Garden: 51.795085, -0.177399;
+Italian Gardens Cafe: 51.511325, -0.175471;
+The Elfin Oak: 51.508641, -0.187934;
+Wanstead Flats: 51.558732, 0.022855;
+Haggerston Park: 51.532957, -0.067362;
+St Dunstan & East Church Garden: 51.509635, -0.082664;
+Chelsea Embankment Gardens: 51.483175, -0.169114;
+Holland Park: 51.50366, -0.207322;
+Ealing Common: 51.509635, -0.289368;
+Greenwich: 51.48006, -0.002217;
+Blackheath: 51.467797, 0.01028;
+Brockwell Park: 51.451637, -0.101199;
+Dulwich Park: 51.445778, -0.079636;
+Clapham Common: 51.458757, -0.146186;
+Richmond Park: 51.4412, 0.2745;
+
+
+Royal Parks
+--------------------
+Richmond Park: 51.4412, 0.2745;
+Hyde Park: 51.508825, -0.163772;
+Kensington Gardens: 51.50572, -0.177352;
+Bushy Park: 51.413511, -0.335899;
+St James's Park: 51.501414, -0.13805;
+The Green: 51.460631, -0.306889;
+The Regent's Park: 51.530559, -0.167493;
+Victoria Tower Gardens: 51.497017, -0.12511;
+
+
+Castles
+-------------
+arundel castle
+bodiam castle
+buckingham palace
+camber castle
+carisbrooke castle
+clearwell castle
+dover castle
+framlingham castle
+guildford castle
+hadleigh castle
+hadlow tower
+hampton court palace
+hastings castle
+herstmonceux castle
+hever castle
+highclere castle
+kensington palace
+leeds castle
+pendennis castle
+rochester castle
+scotney castle
+severndroog castle
+strawberry hill house & gardens
+tonbridge castle
+tower of london
+warwick castle
+windsor castle
+
