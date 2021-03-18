@@ -18,7 +18,41 @@
 </head>
 <body>
 
-
+<button onclick="getLocation()">Get Location</button>
+<button onclick="borough(0)">Barking and Dagenham</button>
+<button onclick="borough(1)">Barnet</button>
+<button onclick="borough(2)">Bexley</button>
+<button onclick="borough(3)">Brent</button>
+<button onclick="borough(4)">Bromley</button>
+<button onclick="borough(5)">Camden</button>
+<button onclick="borough(6)">Croydon</button>
+<button onclick="borough(7)">Ealing</button>
+<button onclick="borough(8)">Enfield</button>
+<button onclick="borough(9)">Greenwich</button>
+<button onclick="borough(10)">Hackney</button>
+<button onclick="borough(11)">Hammersmith and Fulham</button>
+<button onclick="borough(12)">Haringey</button>
+<button onclick="borough(13)">Harrow</button>
+<button onclick="borough(14)">Havering</button>
+<button onclick="borough(15)">Hillingdon</button>
+<button onclick="borough(16)">Hounslow</button>
+<button onclick="borough(17)">Islington</button>
+<button onclick="borough(18)">Kensington and Chelsea</button>
+<button onclick="borough(19)">Kingston upon Thames</button>
+<button onclick="borough(20)">Lambeth</button>
+<button onclick="borough(21)">Lewisham</button>
+<button onclick="borough(22)">Merton</button>
+<button onclick="borough(23)">Newham</button>
+<button onclick="borough(24)">Redbridge</button>
+<button onclick="borough(25)">Richmond upon Thames</button>
+<button onclick="borough(26)">Southwark</button>
+<button onclick="borough(27)">Sutton</button>
+<button onclick="borough(28)">Tower Hamlets</button>
+<button onclick="borough(29)">Waltham Forest</button>
+<button onclick="borough(30)">Wandsworth</button>
+<button onclick="borough(31)">Westminster</button>
+<button onclick="borough(32)">CIty of London</button>
+<p id="demo"></p>
 
 <div id="mapid" style="width: 600px; height: 400px;"></div>
 <script>
@@ -63,7 +97,81 @@
 	popupAnchor:  [0, -16] // point from which the popup should open relative to the iconAnchor
 });
  
- 
+function borough(x){
+document.getElementById('mapid').scrollIntoView();
+switch(x){ 
+case 0: map.flyTo(boroughs.BarkingDagenham.split(","), 15); 
+case 1: map.flyTo(boroughs.Barnet.split(","), 15); 
+case 2: map.flyTo(boroughs.Bexley.split(","), 15); 
+case 3: map.flyTo(boroughs.Brent.split(","), 15); 
+case 4: map.flyTo(boroughs.Bromley.split(","), 15); 
+case 5: map.flyTo(boroughs.Camden.split(","), 15); 
+case 6: map.flyTo(boroughs.Croydon.split(","), 15); 
+case 7: map.flyTo(boroughs.Ealing.split(","), 15); 
+case 8: map.flyTo(boroughs.Enfield.split(","), 15); 
+case 9: map.flyTo(boroughs.Greenwich.split(","), 15); 
+case 10: map.flyTo(boroughs.Hackney.split(","), 15); 
+case 11: map.flyTo(boroughs.HammersmithFulham.split(","), 15); 
+case 12: map.flyTo(boroughs.Haringey.split(","), 15); 
+case 13: map.flyTo(boroughs.Harrow.split(","), 15); 
+case 14: map.flyTo(boroughs.Havering.split(","), 15); 
+case 15: map.flyTo(boroughs.Hillingdon.split(","), 15); 
+case 16: map.flyTo(boroughs.Hounslow.split(","), 15); 
+case 17: map.flyTo(boroughs.Islington.split(","), 15); 
+case 18: map.flyTo(boroughs.KensingtonChelsea.split(","), 15); 
+case 19: map.flyTo(boroughs.KingstonThames.split(","), 15); 
+case 20: map.flyTo(boroughs.Lambeth.split(","), 15); 
+case 21: map.flyTo(boroughs.Lewisham.split(","), 15); 
+case 22: map.flyTo(boroughs.Merton.split(","), 15); 
+case 23: map.flyTo(boroughs.Newham.split(","), 15); 
+case 24: map.flyTo(boroughs.Redbridge.split(","), 15); 
+case 25: map.flyTo(boroughs.RichmondThames.split(","), 15); 
+case 26: map.flyTo(boroughs.Southwark.split(","), 15); 
+case 27: map.flyTo(boroughs.Sutton.split(","), 15); 
+case 28: map.flyTo(boroughs.TowerHamlets.split(","), 15); 
+case 29: map.flyTo(boroughs.WalthamForest.split(","), 15); 
+case 30: map.flyTo(boroughs.Wandsworth.split(","), 15); 
+case 31: map.flyTo(boroughs.Westminster.split(","), 15); 
+case 32: map.flyTo(boroughs.CityLondon.split(","), 15); 
+default:
+return
+}}
+
+var boroughs = {
+BarkingDagenham: "51.5607, 0.1557";
+Barnet: "51.6252, -0.1517";
+Bexley: "51.4549, 0.1505";
+Brent: "51.5588, -0.2817";
+Bromley: "51.4039, 0.0198";
+Camden: "51.5290, -0.1255";
+Croydon: "51.3714, -0.0977";
+Ealing: "51.5130, -0.3089";
+Enfield: "51.6538, -0.0799";
+Greenwich: "51.4892, 0.0648";
+Hackney: "51.5450, -0.0553";
+HammersmithFulham: "51.4927, -0.2339";
+Haringey: "51.6000, -0.1119";
+Harrow: "51.5898, -0.3346";
+Havering: "51.5812, 0.1837";
+Hillingdon: "51.5441, -0.4760";
+Hounslow: "51.4746, -0.3680";
+Islington: "51.5416, -0.1022";
+KensingtonChelsea: "51.5020, -0.1947";
+KingstonThames: "51.4085, -0.3064";
+Lambeth: "51.4607, -0.1163";
+Lewisham: "51.4452, -0.0209";
+Merton: "51.4014, -0.1958";
+Newham: "51.5077, 0.0469";
+Redbridge: "51.5590, 0.0741";
+RichmondThames: "51.4479, -0.3260";
+Southwark: "51.5035, -0.0804";
+Sutton: "51.3618, -0.1945";
+TowerHamlets: "51.5099, -0.0059";
+WalthamForest: "51.5908, -0.0134";
+Wandsworth: "51.4567, -0.1910";
+Westminster: "51.4973, -0.1372";
+CityLondon: "51.5155, -0.0922";
+}
 
 
 	a = [];
