@@ -1,7 +1,8 @@
 # mapLondon
 leaflet map of parks &amp; commons
 
-Hosted @ 2Pence.co.uk for the The Bayswater Football Project.
+Hosted @ https://baywater2p.github.io/mapLondon/ 
+for the The Bayswater Football Project @ www.2Pence.co.uk 
 
 includes:  
 Public Spaces  
