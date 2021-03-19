@@ -198,7 +198,7 @@ CityLondon: "51.5155,-0.0922"
 	
 		
  function  createPolyline(inputArray, col){
-var polyline = L.polyline(inputArray, {color: col}).addTo(map);
+var polyline = L.polyline(inputArray, {color: col}).addTo(mymap);
  }
  
 
@@ -212,7 +212,7 @@ function getLocation() {
     }
 }
 function showPosition(position) {
-document.getElementById('mapid').scrollIntoView();
+document.getElementById('mymap').scrollIntoView();
 map.setView([position.coords.latitude, position.coords.longitude], 15);
 	 	
 } 
@@ -238,7 +238,6 @@ function showError(error) {
 </script>
 </body>
 </html>
-
 
 
 
