@@ -67,6 +67,7 @@
 <p id="demo"></p>
 
 <div id="mapid" style="width: 600px; height: 400px;"></div>
+	<p id="err"></p>
 <script>
 
 	var mymap = L.map('mapid').setView([51.5135, -0.1866], 13);
@@ -213,23 +214,23 @@ function getLocation() {
 }
 function showPosition(position) {
 document.getElementById('mymap').scrollIntoView();
-map.setView([position.coords.latitude, position.coords.longitude], 15);
+mymap.setView([position.coords.latitude, position.coords.longitude], 15);
 	 	
 } 
-var x = document.getElementById("intro");
+var y = document.getElementById("err");
 function showError(error) {
     switch(error.code) {
         case error.PERMISSION_DENIED:
-            x.innerHTML = "User denied the request for Geolocation."
+            y.innerHTML = "User denied the request for Geolocation."
             break;
         case error.POSITION_UNAVAILABLE:
-            x.innerHTML = "Location information is unavailable."
+            y.innerHTML = "Location information is unavailable."
             break;
         case error.TIMEOUT:
-            x.innerHTML = "The request to get user location timed out."
+            y.innerHTML = "The request to get user location timed out."
             break;
         case error.UNKNOWN_ERROR:
-            x.innerHTML = "An unknown error occurred."
+            y.innerHTML = "An unknown error occurred."
             break;
     }
 }
