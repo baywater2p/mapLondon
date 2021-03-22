@@ -394,3 +394,335 @@ tower of london
 warwick castle
 windsor castle
 
+
+
+UK Counties:
+Aberdeenshire
+Anglesey
+Angus (Forfarshire)
+Antrim
+Argyll
+Armagh
+Avon
+Ayrshire
+Banffshire
+Bath
+Bedford
+Bedfordshire
+Berkshire
+Berwickshire
+Blackburn
+Blackpool
+Bournemouth
+Brecknockshire
+Brighton
+Bristol
+Buckinghamshire
+Bute
+Caernarfonshire
+Caithness
+Cambridgeshire
+Cardiganshire
+Carmarthenshire
+Central Bedfordshire
+Cheshire
+City of Belfast
+City of Derry
+City of Dundee
+City of Edinburgh
+City of Glasgow
+Clackmannanshire
+Cleveland
+Clwyd
+Cornwall
+Cromartyshire
+Cumberland
+Cumbria
+Darlington
+Denbighshire
+Derby
+Derbyshire
+Devon
+Dorset
+Down
+Dumfriesshire
+Dunbarton
+Durham
+Dyfed
+East Lothian (Haddingtonshire)
+East Suffolk
+East Sussex
+Essex
+Fermanagh
+Fife
+Flintshire
+Glamorgan
+Gloucestershire
+Greater London
+Greater Manchester
+Gwent
+Gwynedd
+Halton
+Hampshire
+Hartlepool
+Hereford
+Herefordshire
+Hertfordshire
+Humberside
+Huntingdon and Peterborough
+Huntingdonshire
+Inverness-shire
+Isle of Ely
+Isle of Wight
+Kent
+Kincardineshire
+Kingston upon Hull
+Kinross-shire
+Kirkcudbrightshire
+Lanarkshire
+Lancashire
+Leicester
+Leicestershire
+Lincolnshire
+London
+Londonderry
+Luton
+Medway
+Merionethshire
+Merseyside
+Mid Glamorgan
+Middlesbrough
+Middlesex
+Midlothian/Edinburghshire
+Milton Keynes
+Monmouthshire
+Montgomeryshire
+Moray (Elginshire)
+Nairnshire
+Norfolk
+North Humberside
+North Somerset
+North Yorkshire
+Northamptonshire
+Northumberland
+Nottingham
+Nottinghamshire
+Orkney
+Oxfordshire
+Peeblesshire
+Pembrokeshire
+Perthshire
+Peterborough
+Plymouth
+Poole
+Portsmouth
+Powys
+Radnorshire
+Redcar and Cleveland
+Renfrewshire
+Ross and Cromarty
+Ross-shire
+Roxburghshire
+Rutland
+Selkirkshire
+Shetland
+Shropshire
+Soke of Peterborough
+Somerset
+South Glamorgan
+South Gloucestershire
+South Humberside
+South Yorkshire
+Southampton
+Southend-on-Sea
+Staffordshire
+Stirlingshire
+Stockton-on-Tees
+Stoke-on-Trent
+Suffolk
+Surrey
+Sussex
+Sutherland
+Swindon
+Telford and Wrekin
+Thurrock
+Torbay
+Tyne and Wear
+Tyrone
+Warrington
+Warwickshire
+West Glamorgan
+West Lothian (Linlithgowshire)
+West Midlands
+West Suffolk
+West Sussex
+West Yorkshire
+Westmorland
+Wigtownshire
+Wiltshire
+Worcestershire
+Wrexham
+York
+Yorkshire
+
+UK badges:
+Air Activities Staged Activity Badge
+Community Impact Staged Activity Badge
+Digital Citizen Staged Activity Badge
+Digital Maker Staged Activity Badge
+Emergency Aid Staged Activity Badge
+Hikes Away Staged Activity Badge
+Musician Staged Activity Badge
+Nautical Skills Staged Activity Badge
+Navigator Staged Activity Badge
+Nights Away Staged Activity Badge
+Paddle Sports Staged Activity Badge
+Sailing Staged Activity Badge
+Snowsports Staged Activity Badge
+Swimmer Staged Activity Badge
+Time on the Water Staged Activity Badge
+
+US badges:
+American Business
+American Cultures
+American Heritage
+American Labor
+Animal Science
+Animation
+Archaeology
+Archery
+Architecture
+Art
+Astronomy
+Athletics
+Automotive Maintenance
+Aviation
+Backpacking
+Basketry
+Bird Study
+Bugling
+Camping
+Canoeing
+Chemistry
+Chess
+Citizenship in the Community
+Citizenship in the Nation
+Citizenship in the World
+Climbing
+Coin Collecting
+Collections
+Communication
+Composite Materials
+Cooking
+Crime Prevention
+Cycling
+Dentistry
+Digital Technology
+Disabilities Awareness
+Dog Care
+Drafting
+Electricity
+Electronics
+Emergency Preparedness
+Energy
+Engineering
+Entrepreneurship
+Environmental Science
+Exploration
+Family Life
+Farm Mechanics
+Fingerprinting
+Fire Safety
+First Aid
+Fish and Wildlife Management
+Fishing
+Fly Fishing
+Forestry
+Game Design
+Gardening
+Genealogy
+Geocaching
+Geology
+Golf
+Graphic Arts
+Hiking
+Home Repairs
+Horsemanship
+Indian Lore
+Insect Study
+Inventing
+Journalism
+Kayaking
+Landscape Architecture
+Law
+Leatherwork
+Lifesaving
+Mammal Study
+Medicine
+Metalwork
+Mining in Society
+Model Design and Building
+Motorboating
+Moviemaking
+Music
+Nature
+Nuclear Science
+Oceanography
+Orienteering
+Painting
+Personal Fitness
+Personal Management
+Pets
+Photography
+Pioneering
+Plant Science
+Plumbing
+Pottery
+Programming
+Public Health
+Public Speaking
+Pulp and Paper
+Radio
+Railroading
+Reading
+Reptile and Amphibian Study
+Rifle Shooting
+Robotics
+Rowing
+Safety
+Salesmanship
+Scholarship
+Scouting Heritage
+Scuba Diving
+Sculpture
+Search and Rescue
+Shotgun Shooting
+Signs, Signals, and Codes
+Skating
+Small-Boat Sailing
+Snow Sports
+Soil and Water Conservation
+Space Exploration
+Sports
+Stamp Collecting
+Surveying
+Sustainability
+Swimming
+Textile
+Theater
+Traffic Safety
+Truck Transportation
+Veterinary Medicine
+Water Sports
+Weather
+Welding
+Whitewater
+Wilderness Survival
+Wood Carving
+Woodwork
+
+
+
+
+
+
