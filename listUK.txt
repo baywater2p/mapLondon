@@ -565,6 +565,35 @@ Wrexham
 York
 Yorkshire
 
+
+UK trains:
+London Overground Southeastern
+Southeastern Great Western Railway
+Great Western Railway Greater Anglia
+Greater Anglia Thameslink
+Thameslink Grand Central
+Grand Central RailEasy
+RailEasy LNER
+LNER Hull Trains
+Hull Trains C2C
+C2C Great Northern
+Great Northern Northern
+Northern Southern
+Southern East Midlands Railway
+East Midlands Railway Avanti West Coast
+Avanti West Coast Chiltern Railways
+Chiltern Railways Caledonian Sleeper
+Caledonian Sleeper London Northwestern Railway
+London Northwestern Railway West Midlands Railway
+West Midlands Railway CrossCountry
+CrossCountry ScotRail
+ScotRail South Western Railway
+South Western Railway Transport for Wales
+Transport for Wales TransPennine Express
+TransPennine Express
+
+
+
 UK badges:
 Air Activities Staged Activity Badge
 Community Impact Staged Activity Badge
