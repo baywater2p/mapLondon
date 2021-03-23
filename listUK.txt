@@ -150,7 +150,7 @@ lowery : Shell, --- 144-150 Upper Clapton Rd, Clapton, London E5 9JZ
 lucas : Shell  --- Wood Lane, Wood Ln, Dagenham RM10 7RP
 lucilla : Shell, --- 970 Great Cambridge Rd, London, Enfield EN1 4JR
 lyall : The Co-Op  --- 57-73 chrisp st, poplar, london e14 6lp
-lynden : Shell  ---
+lynden : Shell  --- Shell Gillette Corner, 882 Great West Road, Isleworth TW7 5NG
 magpie : Costcutter, --- 1 Boroughs Parade, London NW4 4BD
 master : Shell, --- 276 Upper St, Islington, London N1 2TZ
 mint : --- 200 Aldersgate, 200 Aldersgate Street, London EC1A 4HD
