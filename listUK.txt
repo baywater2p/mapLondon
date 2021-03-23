@@ -150,7 +150,7 @@ lowery : Shell, --- 144-150 Upper Clapton Rd, Clapton, London E5 9JZ
 lucas : Shell  --- Wood Lane, Wood Ln, Dagenham RM10 7RP
 lucilla : Shell, --- 970 Great Cambridge Rd, London, Enfield EN1 4JR
 lyall : The Co-Op  --- 57-73 chrisp st, poplar, london e14 6lp
-lynden : Shell  --- 
+lynden : Shell  ---
 magpie : Costcutter, --- 1 Boroughs Parade, London NW4 4BD
 master : Shell, --- 276 Upper St, Islington, London N1 2TZ
 mint : --- 200 Aldersgate, 200 Aldersgate Street, London EC1A 4HD
@@ -179,150 +179,7 @@ ping : Goldsmith University, --- Dixon Rd, New Cross, London SE14 6NW
 posie : Unit B Prologis Park, --- Twelvetrees Crescent, London E3 3JG
 post : Morrisons London Queensbury, --- Honeypot Lane, Brent NW9 6RN
 queen : Southside Shopping Centre, --- Wandsworth London, SW18 4TF
-raider : Shell, --- 510 Blackfen Rd, Sidcup DA15 9NT
-reznov : Harrow Service Station, --- Pinner Road, Harrow HA1 4EU
-ripley : University College London Hospital, --- NHS Foundation Trust, London NW1 2PG
-saffron : Morrisons Harrow, --- Trident Point, Harrow HA1 4HX
-samus : Aviva Office, --- St Helens, London EC3P 3DQ
-sarah : Morrisons Loughton, --- High Road, Loughton IG10 1RB
-sign : The Bow Quarter, --- 60 Fairfield Rd, Bow, London E3 2UB
-soap : BP Barnet, --- Russell Lane, London N20 0BB
-solaire : Shell, --- 171 High St, West Wickham BR4 0LU
-sorghum : Wagamama, London Designer Outlet, Level 2 --- Empire Way, Wembley Park, Wembley HA9 0FD
-sorrel : O2 Centre, --- 255 Finchley Rd, London NW3 6LU
-sphere : Budgens of Islington, --- 213-215 Upper St, London N1 1RL
-spring : Barclays Bank PLC, --- 5 N Colonnade, Canary Wharf, London E14 4BB
-swan : The Co-Op  --- 23 the broadway, crouch end, london n8 8du
-tempo : The Co-Op  --- 431-435 downham way, bromley br1 5hr
-tony : Morrisons Stratford, --- The Grove, Stratford E15 1EN
-topaz : The Co-Op  --- 130-138 garratt lane wandsworth, london sw18 4dj
-wesley : --- 88 Euston Rd, London NW1 2RA
-yoma : The Co-Op  --- 2 chatterton rd, bromley common, bromley br2 9qn
-zinnia : The Co-Op  --- 76-80 Great Eastern St, Shoreditch, London EC2A 3JL
 quietaf :  --- 1st Floor, Buckhurst House in Kent, 42/44 Buckhurst Ave, Sevenoaks TN13 1LZ
-connell : LSBU, McLaren House, --- London SE1 0AP
-convex : Loxford Service Station, --- 433 Ilford Ln, Ilford IG1 2PG
-crab : St George's Swimming Pools, --- 221 The Highway, London E1W 3BP
-cranium : Streatham Ice And Leisure Centre, --- 390 Streatham High Road, Streatham SW16 6HX
-cricklewood : Co-op Food, --- Cricklewood Ln, Cricklewood NW2 1ET
-crisp : Martin's  --- 22-26 High St, Abbots Langley WD5 0AA
-cuddles : Coldharbour Leisure Centre, --- Chapel Farm Rd, Coldharbour Estate, Eltham SE9 3LX
-dali : Pinner Library, --- 78 Marsh Rd, Pinner HA5 5NQ
-dancer : Hopfield Service Station, --- 747-759 Old Kent Road, London SE15 1NZ
-dasher : Northolt Leisure Centre & Library, --- Eastcote Ln N, Northolt UB5 4AB
-degas : Swakeleys Service Station, --- 12 Long Ln, Ickenham, Uxbridge UB10 8TB
-dim : Dulwich Service Station, --- 13 - 19 East Dulwich Road, Dulwich SE22 9BD
-dogrose : The Co-Op  --- 28-32 Denmark Hill, Camberwell, London SE5 8RZ
-dot : Morrisons Thamesmead, --- 2 Twin Tumps Way, London SE28 8RD
-doubt : Morrisons Peckham, --- Rye Lane, London SE15 5EW
-drizzle : Morrisons, --- 51 The Broadway, Wimbledon, London SW19 1QB
-ecstatic : Imperial College London, South Kensington Campus, --- South Kensington, London SW7 2AZ
-ed : Morrisons, --- 228 246, High St, Brentford TW8 0JG
-edge : Morrisons Enfield, --- Southbury Road, Enfield EN1 1TW
-edimame : Morrisons Stamford Hill, --- Stamford Hill, Stoke Newington N16 5SR
-elisha : Shell  --- Burnham Road, Dartford DA1 5BN
-ember : Morrisons Colindale, --- 339 Edgware Road, Colindale NW9 5AH
-fairy : University Of East London, --- 4-6 University Way, London E16 2RD
-falcon : Queen Mary University Of London, Student's Union Hub, --- 329 Mile End Rd, Bethnal Green, London E1 4NT
-faust : --- 15 New Change, London EC2V 6AF
-faye : Morrisons Mitcham, --- St Mark s Place, Mitcham CR4 2LF
-fenella : Shell  --- Shell Harlow, Bypass Potter Street, Essex CM17 9AD
-fiery : Shell  --- Shell Lewisham Service Station, 357 to 361 Lewisham High Street, Lewisham SE13 6NZ
-finchley : Finchley Central Underground Station, --- Regent's Park Road, London N3 2RY
-flash : HAVAS HQ, --- 3 Pancras Square, Kings Cross, London N1C 4AG
-flavin : --- 193 Camden High St, Camden Town, London NW1 7PJ
-flex : --- 3, McColl's, 5 Howard Dr, Borehamwood WD6 2NY
-flopsy : Shell  --- 360 Verdant Lane, Catford SE6 1TP
-flower : Block One, --- Angel Square, London EC1V 1NS
-forza : Shell  --- 306-320 Brighton Rd, South Croydon CR2 6AJ
-fraction : Gayton Library, --- Garden House, Harrow HA1 2EE
-fulton : Shell  --- Hawley Rd, Hawley, Kent DA1 1PU
-gaby : --- 107 London Rd, Staines TW18 4HN
-gareth : Shell  --- 30 The Vale, Acton, London W3 7RS
-gaz : Shell, --- 18-22 High Rd, Buckhurst Hill IG9 5HP
-gemini : SPAR, --- 18-20 Queensway, Bayswater, London W2 3RX
-gemstone : Imperial College London, South Kensington Campus, --- South Kensington SW7 2AZ
-gillip : Shell, --- 6 Church Rd, Hanwell, London W7 1DR
-ginkgo : Cartridge World Islington, --- 370 Caledonian Rd, Islington, London N1 1DY
-glitter : St George's Centre, --- St Anns Rd, Harrow HA1 1HS
-goblet : Askew Road Library, --- 87 89 Askew Rd, London W12 9AS
-golg : Shell, --- 124 Manor Rd, Chigwell IG7 5PP
-granger : The Co-Op  --- 56-62 Lordship Ln, East Dulwich, London SE22 8HJ
-grape : The Co-Op  --- 112 homerton high st, london e9 6jf
-grin : O2 Centre, --- 255 Finchley Rd, London NW3 6LU
-guava : The Co-Op  --- 246-252 hackney rd, bethnal green, london e2 7sj
-harp : Perivale Station, --- Horsenden Ln S, Perivale, Greenford UB6 8AE
-hassium : Priory Shopping Centre, --- Lowfield St, Dartford DA1 2HR
-hayden : Pimlico Library, --- Lupus St, Pimlico, London SW1V 3AT
-haze : Mercury House, --- Mercury Gardens, Romford RM1 3EE
-hinch : Paddington Library, --- 45 Porchester Rd, London W2 5DU
-holland : Expedia office, --- The Angel Building, London EC1V 4EX
-holmes : Shell  --- 445-453 Wick Ln, Bow, London E3 2TB
-hotel : Shell  --- Barnet Way Apex Corner, London NW7 3ET
-ice : Martin's  --- , 134 The Gossamers, Watford WD25 9AD
-india : Barclays Catford, --- 166 Rushey Green, Catford, London SE6 4HH
-irina : Barclays, --- 24 Lowfield St, Dartford DA1 1HD
-jemma : Charing Cross Library, --- 4 Charing Cross Road, London WC2H 0HF
-jersey : Morrisons, --- King St, Acton, London W3 9LA
-jester : Morrisons Ealing Broadway, --- The Arcadia Centre, London W5 2ND
-jewel : Crystal Palace National Sports Centre, --- Ledrington Road, London SE19 2BB
-jill : Shell, --- 529 Yeading Ln, Yeading, Northolt UB5 6LN
-jive : Morrisons Camberwell, --- Butterfly Walk, Camberwell SE5 8RW
-jodie : Victoria Library, --- 160 Buckingham Palace Rd, Belgravia, London SW1W 9UD
-joey : Barclays, --- 36 Park Royal Rd, Park Royal, London NW10 7JA
-jols : Morrisons London Sutton, --- Cheam Road, Sutton SM1 1DD
-jolt : Morrisons Watford, --- Ascot Rd, Watford WD18 8AA
-jones : Fulham Library, --- 598 Fulham Rd, Fulham, London SW6 5NX
-juliet : Barclays Southgate, --- 18 Chase Side, Osidge, London N14 5PB
-jumanji : Shell  --- 744-748 Greenford Rd, Greenford UB6 8QQ
-juniper : Fulham Broadway Retail Centre, --- Fulham Road, London SW6 1BW
-justin : Barclays Victoria, --- 13 Artillery Row, Westminster, London SW1P 1RH
-kale : Morrisons, --- 79 Welling High St, London DA16 1TZ
-katy : --- London EC2V 6AH
-keen : Britannia Leisure Centre, --- 40 Hyde Rd, London N1 5JU
-khan : Shell, --- Hospital Bridge Rd, Staines Rd, Twickenham TW2 5JA
-kick : McColl's Blackheath, --- 20 Tranquil Vale, Kidbrooke, London SE3 0AX
-kira : Co-op Food, --- Omega House, King's Rd, Chelsea, London SW10 0LU
-kiran : Morrisons Petts Wood  --- 70 Queensway, Petts Wood, Orpington BR5 1DH
-laurel : The Co-Op  --- northcote road battersea, london sw11 1ng
-leah : Morrisons Reading, --- Rose Kiln Lane Road, Reading RG2 0HB
-lema : --- 90, Pavilions Shopping Centre, High Street, Hertfordshire EN8 7BZ
-lilac : The Co-Op  --- 74-80 middlesex st, spitalfields, london e1 7ez
-lobster : Co-op Food, --- 1 Station Rd, Chingford, London E4 7BJ
-lomo : Bonham Carter House, --- 52 Gower St, Bloomsbury, London WC1E 6EB
-lowery : Shell, --- 144-150 Upper Clapton Rd, Clapton, London E5 9JZ
-lucas : Shell  --- Wood Lane, Wood Ln, Dagenham RM10 7RP
-lucilla : Shell, --- 970 Great Cambridge Rd, London, Enfield EN1 4JR
-lyall : The Co-Op  --- 57-73 chrisp st, poplar, london e14 6lp
-lynden : Shell  --- 
-magpie : Costcutter, --- 1 Boroughs Parade, London NW4 4BD
-master : Shell, --- 276 Upper St, Islington, London N1 2TZ
-mint : --- 200 Aldersgate, 200 Aldersgate Street, London EC1A 4HD
-monsoon : SPAR, --- SPAR, 18-20 Queensway, Bayswater, London W2 3RX
-mutis : Co-op Food, --- 176-178 Streatham Hill, London SW2 4RU
-myrtle : Co-op Food, --- 185 Old Street, London EC1V 9NP
-nathan : SPAR, --- SPAR, 18-20 Queensway, Bayswater, London W2 3RX
-nerve : Shell, --- 85 Slough Rd, London Rd, Slough SL3 7RS
-nest : Shell  --- Shell Windsor, Clarence Road, Windsor SL4 5AE, UK, Windsor, Greater London, SL4 5AE
-newbury : Newbury Park Underground Station, --- Newbury Park, Ilford IG2 7RN
-newt : Shell  --- 176 Footscray Road, London SE9 2TD
-niamh : Shell  --- 445-453 Wick Lane, London E3 2TB
-nikolai : Shell  --- Worple Rd, Wimbledon, London SW20 8RE
-oat : --- 27 Battersea Bridge Rd, Battersea, London SW11 3BA
-oatcake : Co-op Food, --- 193-197 Mile End Rd, Stepney Green E1 4AA
-octagon : Shell  --- Watford Rd, Sarratt, Kings Langley WD4 8RD
-onyx : The Co-Op  --- Cricklewood Ln, Cricklewood, London NW2 1ET
-orchid : Royal Bank of Scotland, --- 250 Bishopsgate, London EC2M 4AA
-orlick : New Barnet Service Station, --- 65 East Barnet Road, Barnet EN4 8RN
-papa : Shell  --- A308, 187-201 London Rd, Kingston upon Thames KT2 6PQ
-parker : Martin's  --- 15 Leeming Rd, Borehamwood WD6 4EB
-paul : Morrisons, --- 264 Walworth Rd, Walworth, London SE17 1JE
-pen : McColl's Bayswater, --- 6 Pembridge Rd, Bayswater, London W11 3HL
-perseus : Shell  --- 728 Sidcup Rd, Coldharbour Estate, London SE9 3AL
-ping : Goldsmith University, --- Dixon Rd, New Cross, London SE14 6NW
-posie : Unit B Prologis Park, --- Twelvetrees Crescent, London E3 3JG
-post : Morrisons London Queensbury, --- Honeypot Lane, Brent NW9 6RN
-queen : Southside Shopping Centre, --- Wandsworth London, SW18 4TF
 raider : Shell, --- 510 Blackfen Rd, Sidcup DA15 9NT
 reznov : Harrow Service Station, --- Pinner Road, Harrow HA1 4EU
 ripley : University College London Hospital, --- NHS Foundation Trust, London NW1 2PG
@@ -343,8 +200,6 @@ topaz : The Co-Op  --- 130-138 garratt lane wandsworth, london sw18 4dj
 wesley : --- 88 Euston Rd, London NW1 2RA
 yoma : The Co-Op  --- 2 chatterton rd, bromley common, bromley br2 9qn
 zinnia : The Co-Op  --- 76-80 Great Eastern St, Shoreditch, London EC2A 3JL
-
-
 
 
 
