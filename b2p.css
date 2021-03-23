@@ -1,4 +1,9 @@
-.button {
+#panel
+{
+    width:80%;
+    text-align: center;
+}
+  .button {
   background-color: #7851a9; /* Green */
   border: none;
   color: white;
@@ -6,4 +11,5 @@
   text-align: center;
   text-decoration: none;
   font-size: 22px;
+  display: inline-block;
 }
