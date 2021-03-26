@@ -201,6 +201,16 @@ wesley : --- 88 Euston Rd, London NW1 2RA
 yoma : The Co-Op  --- 2 chatterton rd, bromley common, bromley br2 9qn
 zinnia : The Co-Op  --- 76-80 Great Eastern St, Shoreditch, London EC2A 3JL
 
+Farmers Markets
+---------------------------
+Acton £ 51.5080108, -0.2716250
+Marylebone £
+Notting Hill £
+South Kensington [Tues+Sat] £
+
+
+
+
 
 
 underground tube stations
