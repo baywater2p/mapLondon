@@ -164,6 +164,7 @@ newbury : Newbury Park Underground Station, --- Newbury Park, Ilford IG2 7RN
 newt : Shell  --- 176 Footscray Road, London SE9 2TD
 niamh : Shell  --- 445-453 Wick Lane, London E3 2TB
 nikolai : Shell  --- Worple Rd, Wimbledon, London SW20 8RE
+nuha : Wilko Hardware, --- 172, 174 Kensington High St, Kensington, London W8 7RG
 oat : --- 27 Battersea Bridge Rd, Battersea, London SW11 3BA
 oatcake : Co-op Food, --- 193-197 Mile End Rd, Stepney Green E1 4AA
 octagon : Shell  --- Watford Rd, Sarratt, Kings Langley WD4 8RD
@@ -179,7 +180,6 @@ ping : Goldsmith University, --- Dixon Rd, New Cross, London SE14 6NW
 posie : Unit B Prologis Park, --- Twelvetrees Crescent, London E3 3JG
 post : Morrisons London Queensbury, --- Honeypot Lane, Brent NW9 6RN
 queen : Southside Shopping Centre, --- Wandsworth London, SW18 4TF
-quietaf :  --- 1st Floor, Buckhurst House in Kent, 42/44 Buckhurst Ave, Sevenoaks TN13 1LZ
 raider : Shell, --- 510 Blackfen Rd, Sidcup DA15 9NT
 reznov : Harrow Service Station, --- Pinner Road, Harrow HA1 4EU
 ripley : University College London Hospital, --- NHS Foundation Trust, London NW1 2PG
