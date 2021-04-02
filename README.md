@@ -24,3 +24,7 @@ Commons & Green Spaces
 5 safe bike trails*  
   
 
+For SQL map, create table with this query:  
+CREATE TABLE bus ( lid varchar(4), addr varchar(255), lat varchar(10), lon varchar(10) );
+
+Then add data using INSERT [or make a simple form/admin page]
