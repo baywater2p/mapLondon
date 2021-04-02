@@ -25,6 +25,8 @@ Commons & Green Spaces
   
 
 For SQL map, create table with this query:  
-CREATE TABLE bus ( lid varchar(4), addr varchar(255), lat varchar(10), lon varchar(10) );
+CREATE TABLE lockers ( lid varchar(4), addr varchar(255), lat varchar(10), lon varchar(10) );
 
 Then add data using INSERT [or make a simple form/admin page]
+
+Don't forget to index the 'lat/lon' columns and use auto-increment/unique/primary-key for 'lid' column. 
