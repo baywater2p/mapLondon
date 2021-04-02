@@ -10,7 +10,7 @@ if (!$con) {
 }
 
 mysqli_select_db($con,"db");
-$sql="SELECT * FROM lockers WHERE stop_lat BETWEEN ".$lat." AND ".$lat2." AND stop_lon BETWEEN ".$lon." AND ". $lon2." LIMIT 40 " ;
+$sql="SELECT * FROM lockers WHERE locker_lat BETWEEN ".$lat." AND ".$lat2." AND locker_lon BETWEEN ".$lon." AND ". $lon2." LIMIT 40 " ;
 $result = mysqli_query($con,$sql);
    
 while($row = mysqli_fetch_array($result)) {
