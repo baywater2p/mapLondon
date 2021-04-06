@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,9 +12,9 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
 
-<script>
+<style>
 .button {
-  background-color: #4CAF50;
+  background-color: #7851a9;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -26,7 +25,7 @@
   margin: 4px 2px;
   cursor: pointer;
 }
-</script>
+</style>
 </head>
 <body>
 
@@ -66,11 +65,11 @@
 <button class="button" onclick="borough(32)">CIty of London</button>
 <p id="demo"></p>
 
-<div id="mapid" style="width: 600px; height: 400px;"></div>
+<div id="mapid" style="width: 90%; height: 800px;"></div>
 	<p id="err"></p>
 <script>
 
-	var mymap = L.map('mapid').setView([51.5135, -0.1866], 13);
+	var map = L.map('mapid').setView([51.5135, -0.1866], 13);
 
 	L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
 		maxZoom: 18,
@@ -79,16 +78,16 @@
 		id: 'mapbox/streets-v11',
 		tileSize: 512,
 		zoomOffset: -1
-	}).addTo(mymap);
+	}).addTo(map);
 
-	L.marker([51.5135, -0.1866]).addTo(mymap)
+	L.marker([51.5135, -0.1866]).addTo(map)
 		.bindPopup("<b>Bayswater</b><br /> Station").openPopup();
 
 	L.circle([51.5135, -0.1866], 500, {
 		color: 'red',
 		fillColor: '#f03',
 		fillOpacity: 0.5
-	}).addTo(mymap).bindPopup("I am a circle.");
+	}).addTo(map).bindPopup("I am a circle.");
  
 	var popup = L.popup();
 
@@ -96,15 +95,15 @@
 		popup
 			.setLatLng(e.latlng)
 			.setContent(" " + e.latlng.toString())
-			.openOn(mymap);
+			.openOn(map);
 	}
 
-	mymap.on('click', onMapClick);
+	map.on('click', onMapClick);
 
   
   
-  var tube = L.icon({
-	iconUrl: 'tube.png',  
+  var lockers = L.icon({
+	iconUrl: 'locker.png',  
 	iconSize:     [16, 16], // size of the icon
 	iconAnchor:   [8, 16], // point of the icon which will correspond to marker's location
 	popupAnchor:  [0, -16] // point from which the popup should open relative to the iconAnchor
@@ -195,16 +194,16 @@ CityLondon: "51.5155,-0.0922"
 	function onMapClick(e) {
 		createGPSarray(e.latlng);
 	}
-	mymap.on('click', onMapClick);
+	map.on('click', onMapClick);
 	
 		
  function  createPolyline(inputArray, col){
-var polyline = L.polyline(inputArray, {color: col}).addTo(mymap);
+var polyline = L.polyline(inputArray, {color: col}).addTo(map);
  }
  
 
 
-var x = document.getElementById("demo");
+
 function getLocation() {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(showPosition);
@@ -213,8 +212,8 @@ function getLocation() {
     }
 }
 function showPosition(position) {
-document.getElementById('mymap').scrollIntoView();
-mymap.setView([position.coords.latitude, position.coords.longitude], 15);
+document.getElementById('mapid').scrollIntoView();
+map.setView([position.coords.latitude, position.coords.longitude], 15);
 	 	
 } 
 var y = document.getElementById("err");
@@ -239,5 +238,3 @@ function showError(error) {
 </script>
 </body>
 </html>
-
-
