@@ -1,102 +1,35 @@
-
 <!DOCTYPE html>
 <html>
-<head> 
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
-<script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" crossorigin=""></script>
+<head>
+	
+	<title>2Pence.co.uk</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
 
 <style>
-html, body {
-height: 100%;
-margin: 0;
-}
- a {
-	 text-decoration: none;
- }
-#map {
-width: 600px;
-height: 400px;
-}
-
-
-table {
-border-spacing: 0;
-width: 100%;
-border: 1px solid #ddd;
-}
-
-th, td {
-text-align: left;
-padding: 16px;
-}
-
-tr:nth-child(even) {
-background-color: #f2f2f2
-}
-
 .button {
-background-color: #555; /* Green */
-border: none;
-color: white;
-padding: 15px 32px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 16px;
-
-}
-
-.accordion {
-background-color: #eee;
-color: #444;
-cursor: pointer;
-padding: 18px;
-width: 100%;
-border: none;
-text-align: left;
-outline: none;
-font-size: 15px;
-transition: 0.4s;
-}
-
-.active, .accordion:hover {
-background-color: #ccc; 
-}
-
-.panel {
-padding: 0 18px;
-display: none;
-background-color: white;
-overflow: hidden;
-}
-
-
-.btn {
-border: none;
-outline: none;
-padding: 10px 16px;
-background-color: #f1f1f1;
-cursor: pointer;
-font-size: 14px;
-}
-
-/* Style the active class, and buttons on mouse-over */
-.active, .btn:hover {
-background-color: #666;
-color: white;
+  background-color: #7851a9;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 </style>
 </head>
 <body>
 
-<h2>London [UK]</h2>
-<a href="http://www.2pence.co.uk">home</a>
-<br>
-<div style="max-width:600px">
-
+<button class="button" onclick="getLocation()">Get Location</button>
 <button class="button" onclick="borough(0)">Barking and Dagenham</button>
 <button class="button" onclick="borough(1)">Barnet</button>
 <button class="button" onclick="borough(2)">Bexley</button>
@@ -129,71 +62,87 @@ color: white;
 <button class="button" onclick="borough(29)">Waltham Forest</button>
 <button class="button" onclick="borough(30)">Wandsworth</button>
 <button class="button" onclick="borough(31)">Westminster</button>
-<button class="button" onclick="borough(32)">City of London</button>
-</div>
-<br><br>
-
-<div id='map'></div>
-<br>
-
-
+<button class="button" onclick="borough(32)">CIty of London</button>
 <p id="demo"></p>
+
+<div id="mapid" style="width: 90%; height: 800px;"></div>
+	<p id="err"></p>
+<script>
+
+	var map = L.map('mapid').setView([51.5135, -0.1866], 13);
+
+	L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+		maxZoom: 18,
+		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
+			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+		id: 'mapbox/streets-v11',
+		tileSize: 512,
+		zoomOffset: -1
+	}).addTo(map);
+
+	L.marker([51.5135, -0.1866]).addTo(map)
+		.bindPopup("<b>Bayswater</b><br /> Station").openPopup();
+
+	L.circle([51.5135, -0.1866], 500, {
+		color: 'red',
+		fillColor: '#f03',
+		fillOpacity: 0.5
+	}).addTo(map);
  
-<button class="accordion">Bus</button>
-<div class="panel">
-links
-<br>
-<table id="myTable">
-<tr>
-<th><button class="button" onclick="sortTable(0)">Bus</button></th>
-<th><button class="button" onclick="sortTable(1)">Route A-B</button></th>
-<th><button class="button" onclick="sortTable(2)">Route B-A</button></th>
-</tr>
+	var popup = L.popup();
 
-<?php  
-$file = fopen("routes.txt","r");
-while(! feof($file)){
-$x = fgetcsv($file);
-// sort by destination 
-$y = explode("-",$x[3]);
-$z = $y[1].' - '. $y[0];
+	function onMapClick(e) {
+		popup
+			.setLatLng(e.latlng)
+			.setContent(" " + e.latlng.toString())
+			.openOn(map);
+	}
 
-echo '<tr><td><a href="'.$x[6].'">' . str_pad($x[0], 3, "0", STR_PAD_LEFT) . "</a></td><td>" . $x[3] . '</td><td>'.$z.'</td></tr>';
-}
-fclose($file); 
-?>
-</table>
-</div>
+	map.on('click', onMapClick);
 
-<button class="accordion">Train</button>
-<div class="panel">
-...
-
-</div>
-
-<button class="accordion">Bike</button>
-<div class="panel">
- ...
- 
-</div>
- 
-<script> 
-
-var busStop = L.icon({
-	iconUrl: 'stop.png', 
+  
+  
+  var locker = L.icon({
+	iconUrl: 'locker.png',  
 	iconSize:     [16, 16], // size of the icon
 	iconAnchor:   [8, 16], // point of the icon which will correspond to marker's location
 	popupAnchor:  [0, -16] // point from which the popup should open relative to the iconAnchor
 });
  
+ 
+ a = [];
+	function createGPSarray(latlon) {
+		a.push(latlon.lat.toString()+', '+latlon.lng.toString().toString());
+		console.log(a);		
+	}
+	function onMapClick(e) {
+		createGPSarray(e.latlng);
+	}
+	map.on('click', onMapClick);
 
-  var tube = L.icon({
-	iconUrl: 'tube.png',  
-	iconSize:     [16, 16], // size of the icon
-	iconAnchor:   [8, 16], // point of the icon which will correspond to marker's location
-	popupAnchor:  [0, -16] // point from which the popup should open relative to the iconAnchor
+
+
+
+
+
+map.on('moveend', function(e) {
+   var c = map.getBounds();    
+   var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {    
+ var data = eval(this.responseText); 
+    }
+  };
+  xhttp.open("GET", "mapGet.php?lat="+c.getSouth().toFixed(3)+"&lon="+c.getWest().toFixed(3)+"&lat2="+c.getNorth().toFixed(3)+"&lon2="+c.getEast().toFixed(3), true);
+  xhttp.send();
+ 
 });
- P
+
+
+ 
+ 
+ 
+ 
 function borough(x){
 document.getElementById('mapid').scrollIntoView();
 switch(x){ 
@@ -280,125 +229,14 @@ CityLondon: "51.5155,-0.0922"
 		createGPSarray(e.latlng);
 	}
 	map.on('click', onMapClick);
-
-
-
-
-var cities = L.layerGroup();
-L.marker([51.7701, -0.1937]).bindPopup('London').addTo(cities),
-
-var mbAttr = 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
-'<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoidzNyM2MzIiwiYSI6ImNqZW9semFlNjA4dTkycWx0d2lxMDIxbXcifQ.3gA4YIELmf1k_hj1QmpPDA';
-
-var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
-streets  = L.tileLayer(mbUrl, {id: 'mapbox.streets',   attribution: mbAttr});
-var marker = L.marker([0,0]);
-var map = L.map('map', {
-center: [33.7, -117.9],
-zoom: 9, 
-layers: [grayscale, cities]
-}); 
-map.on('moveend', function(e) {
-   var c = map.getBounds();    
-   var xhttp = new XMLHttpRequest();
-  xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-cities.clearLayers();		
- var data = eval(this.responseText); 
-    }
-  };
-  xhttp.open("GET", "mapSQLget.php?lat="+c.getSouth().toFixed(3)+"&lon="+c.getWest().toFixed(3)+"&lat2="+c.getNorth().toFixed(3)+"&lon2="+c.getEast().toFixed(3), true);
-  xhttp.send();
+	
+		
+ function  createPolyline(inputArray, col){
+var polyline = L.polyline(inputArray, {color: col}).addTo(map);
+ }
  
-});
-
-var baseLayers = {
-"Grayscale": grayscale,
-"Streets": streets
-};
-
-var overlays = {
-"Bus Stops": cities
-};
-
-L.control.layers(baseLayers, overlays).addTo(map);
-
-document.getElementById("myTable").deleteRow(1);
-document.getElementById("myTable").deleteRow(-1);
-
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-acc[i].addEventListener("click", function() {
-this.classList.toggle("active");
-var panel = this.nextElementSibling;
-if (panel.style.display === "block") {
-panel.style.display = "none";
-} else {
-panel.style.display = "block";
-}
-});
-}
 
 
-
-
-//FlyTo buttons
-var header = document.getElementById("myDIV");
-var btns = header.getElementsByClassName("btn");
-for (var i = 0; i < btns.length; i++) {
-btns[i].addEventListener("click", function() {
-var current = document.getElementsByClassName("active");
-if (current.length > 0) { 
-current[0].className = current[0].className.replace(" active", "");
-}
-this.className += " active";
-});
-}
-
-
-function sortTable(k) {
-var table, rows, switching, i, x, y, shouldSwitch;
-table = document.getElementById("myTable");
-switching = true;
-/*Make a loop that will continue until
-no switching has been done:*/
-while (switching) {
-//start by saying: no switching is done:
-switching = false;
-rows = table.rows;
-/*Loop through all table rows (except the
-first, which contains table headers):*/
-for (i = 1; i < (rows.length - 1); i++) {
-//start by saying there should be no switching:
-shouldSwitch = false;
-/*Get the two elements you want to compare,
-one from current row and one from the next:*/
-x = rows[i].getElementsByTagName("TD")[k];
-y = rows[i + 1].getElementsByTagName("TD")[k];
-//check if the two rows should switch place:
-if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
-//if so, mark as a switch and break the loop:
-shouldSwitch = true;
-break;
-}
-}
-if (shouldSwitch) {
-/*If a switch has been marked, make the switch
-and mark that a switch has been done:*/
-rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
-switching = true;
-}
-}
-}
-
-
-
-
-var x = document.getElementById("demo");
 
 function getLocation() {
     if (navigator.geolocation) {
@@ -407,40 +245,30 @@ function getLocation() {
         console.log("Geolocation is not supported by this browser.");
     }
 }
-
 function showPosition(position) {
-	
-map.setView([position.coords.latitude, position.coords.longitude], 14);
+document.getElementById('mapid').scrollIntoView();
+map.setView([position.coords.latitude, position.coords.longitude], 15);
 	 	
-}
-
-
-var x = document.getElementById("intro");
+} 
+var y = document.getElementById("err");
 function showError(error) {
     switch(error.code) {
         case error.PERMISSION_DENIED:
-            x.innerHTML = "User denied the request for Geolocation."
+            y.innerHTML = "User denied the request for Geolocation."
             break;
         case error.POSITION_UNAVAILABLE:
-            x.innerHTML = "Location information is unavailable."
+            y.innerHTML = "Location information is unavailable."
             break;
         case error.TIMEOUT:
-            x.innerHTML = "The request to get user location timed out."
+            y.innerHTML = "The request to get user location timed out."
             break;
         case error.UNKNOWN_ERROR:
-            x.innerHTML = "An unknown error occurred."
+            y.innerHTML = "An unknown error occurred."
             break;
     }
 }
 
-
-
-
-
+ 
 </script>
-
-
-
 </body>
 </html>
-
