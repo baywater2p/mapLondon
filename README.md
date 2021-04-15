@@ -27,6 +27,9 @@ Commons & Green Spaces
 For SQL map, create table with this query:  
 CREATE TABLE lockers ( lid varchar(4), addr varchar(255), lat varchar(10), lon varchar(10) );
 
+Use htmlspecialchars() to validate anything going into sql table because parentheses / brackets must me rem
+oved
+
 Then add data using INSERT [or make a simple form/admin page]
 
 Don't forget to index the 'lat/lon' columns and use auto-increment/unique/primary-key for 'lid' column. 
