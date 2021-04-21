@@ -668,174 +668,188 @@ windsor castle
 
 
 UK Counties:
-Aberdeenshire
-Anglesey
-Angus (Forfarshire)
-Antrim
-Argyll
-Armagh
-Avon
-Ayrshire
-Banffshire
-Bath
-Bedford
-Bedfordshire
-Berkshire
-Berwickshire
-Blackburn
-Blackpool
-Bournemouth
-Brecknockshire
-Brighton
-Bristol
-Buckinghamshire
-Bute
-Caernarfonshire
-Caithness
-Cambridgeshire
-Cardiganshire
-Carmarthenshire
-Central Bedfordshire
-Cheshire
-City of Belfast
-City of Derry
-City of Dundee
-City of Edinburgh
-City of Glasgow
-Clackmannanshire
-Cleveland
-Clwyd
-Cornwall
-Cromartyshire
-Cumberland
-Cumbria
-Darlington
-Denbighshire
-Derby
-Derbyshire
-Devon
-Dorset
-Down
-Dumfriesshire
-Dunbarton
-Durham
-Dyfed
-East Lothian (Haddingtonshire)
-East Suffolk
-East Sussex
-Essex
-Fermanagh
-Fife
-Flintshire
-Glamorgan
-Gloucestershire
-Greater London
-Greater Manchester
-Gwent
-Gwynedd
-Halton
-Hampshire
-Hartlepool
-Hereford
-Herefordshire
-Hertfordshire
-Humberside
-Huntingdon and Peterborough
-Huntingdonshire
-Inverness-shire
-Isle of Ely
-Isle of Wight
-Kent
-Kincardineshire
-Kingston upon Hull
-Kinross-shire
-Kirkcudbrightshire
-Lanarkshire
-Lancashire
-Leicester
-Leicestershire
-Lincolnshire
-London
-Londonderry
-Luton
-Medway
-Merionethshire
-Merseyside
-Mid Glamorgan
-Middlesbrough
-Middlesex
-Midlothian/Edinburghshire
-Milton Keynes
-Monmouthshire
-Montgomeryshire
-Moray (Elginshire)
-Nairnshire
-Norfolk
-North Humberside
-North Somerset
-North Yorkshire
-Northamptonshire
-Northumberland
-Nottingham
-Nottinghamshire
-Orkney
-Oxfordshire
-Peeblesshire
-Pembrokeshire
-Perthshire
-Peterborough
-Plymouth
-Poole
-Portsmouth
-Powys
-Radnorshire
-Redcar and Cleveland
-Renfrewshire
-Ross and Cromarty
-Ross-shire
-Roxburghshire
-Rutland
-Selkirkshire
-Shetland
-Shropshire
-Soke of Peterborough
-Somerset
-South Glamorgan
-South Gloucestershire
-South Humberside
-South Yorkshire
-Southampton
-Southend-on-Sea
-Staffordshire
-Stirlingshire
-Stockton-on-Tees
-Stoke-on-Trent
-Suffolk
-Surrey
-Sussex
-Sutherland
-Swindon
-Telford and Wrekin
-Thurrock
-Torbay
-Tyne and Wear
-Tyrone
-Warrington
-Warwickshire
-West Glamorgan
-West Lothian (Linlithgowshire)
-West Midlands
-West Suffolk
-West Sussex
-West Yorkshire
-Westmorland
-Wigtownshire
-Wiltshire
-Worcestershire
-Wrexham
-York
-Yorkshire
 
+999 original lines, 820 removed, 179 remaining.
+
+aberdeenshire
+anglesey
+angus
+angus (forfarshire)
+antrim
+argyll
+armagh
+avon
+ayrshire
+banffshire
+bath
+bedford
+bedfordshire
+berkshire
+berwickshire
+blackburn
+blackpool
+bournemouth
+brecknockshire
+breconshire
+brighton
+bristol
+buckinghamshire
+bute
+caernarfonshire
+caernarvonshire
+caithness
+cambridgeshire
+cardiganshire
+carmarthenshire
+central bedfordshire
+cheshire
+city of belfast
+city of derry
+city of dundee
+city of edinburgh
+city of glasgow
+clackmannanshire
+cleveland
+clwyd
+cornwall
+cornwall and isles of scilly
+cromartyshire
+cumberland
+cumbria
+darlington
+denbighshire
+derby
+derbyshire
+devon
+dorset
+down
+dumbartonshire
+dumfriesshire
+dunbarton
+durham
+dyfed
+east lothian
+east lothian (haddingtonshire)
+east suffolk
+east sussex
+essex
+fermanagh
+fife
+flintshire
+glamorgan
+gloucestershire
+greater london
+greater manchester
+gwent
+gwynedd
+halton
+hampshire
+hartlepool
+hereford
+herefordshire
+hertfordshire
+humberside
+huntingdon and peterborough
+huntingdonshire
+inverness
+inverness-shire
+isle of ely
+isle of wight
+kent
+kincardineshire
+kingston upon hull
+kinross-shire
+kirkcudbrightshire
+lanarkshire
+lancashire
+leicester
+leicestershire
+lincolnshire
+london
+londonderry
+luton
+medway
+merionethshire
+merseyside
+mid glamorgan
+middlesbrough
+middlesex
+midlothian
+midlothian/edinburghshire
+milton keynes
+monmouthshire
+montgomeryshire
+moray
+moray (elginshire)
+nairnshire
+norfolk
+north humberside
+north somerset
+north yorkshire
+northamptonshire
+northumberland
+nottingham
+nottinghamshire
+orkney
+oxfordshire
+peebleshire
+peeblesshire
+pembrokeshire
+perthshire
+peterborough
+plymouth
+poole
+portsmouth
+powys
+radnorshire
+redcar and cleveland
+renfrewshire
+ross & cromarty
+ross and cromarty
+ross-shire
+roxburghshire
+rutland
+selkirkshire
+shetland
+shropshire
+soke of peterborough
+somerset
+south glamorgan
+south gloucestershire
+south humberside
+south yorkshire
+southampton
+southend-on-sea
+staffordshire
+stirlingshire
+stockton-on-tees
+stoke-on-trent
+suffolk
+surrey
+sussex
+sutherland
+swindon
+telford and wrekin
+thurrock
+torbay
+tyne and wear
+tyrone
+warrington
+warwickshire
+west glamorgan
+west lothian
+west lothian (linlithgowshire)
+west midlands
+west suffolk
+west sussex
+west yorkshire
+westmorland
+wigtownshire
+wiltshire
+worcestershire
+wrexham
+york
+yorkshire
 
 UK trains:
 London Overground Southeastern
