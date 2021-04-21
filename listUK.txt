@@ -668,9 +668,6 @@ windsor castle
 
 
 UK Counties:
-
-999 original lines, 820 removed, 179 remaining.
-
 aberdeenshire
 anglesey
 angus
