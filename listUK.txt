@@ -1,122 +1,167 @@
-    New Covent Garden 
-    Borough 
-    Old Billingsgate 
-    Leadenhall 
-    Smithfield 
-    Spitalfields 
+Markets
+---------
+New Covent Garden 
+Borough 
+Old Billingsgate 
+Leadenhall 
+Smithfield 
+Spitalfields 
 
-    Bermondsey 
-    Brick Lane 
-    Broadway 
-    Brook Green 
-    Camden Lock 
-    Camden Passage 
-    Columbia Road 
-    Inverness Street 
-    Leather Lane 
-    Covent Garden 
-    Greenwich 
-    Jubilee 
-    Petticoat Lane 
-    Piccadilly 
-    Portobello Road 
-    Old Spitalfields 
-    Islington Farmers Market 
+Bermondsey 
+Brick Lane 
+Broadway 
+Brook Green 
+Camden Lock 
+Camden Passage 
+Columbia Road 
+Inverness Street 
+Leather Lane 
+Covent Garden 
+Greenwich 
+Jubilee 
+Petticoat Lane 
+Piccadilly 
+Portobello Road 
+Old Spitalfields 
+Islington Farmers Market 
 
-    Archway 
-    Balham Farmers Market 
-    Barking 
-    Battersea High Street 
-    Bermondsey Square Farmers Market 
-    Berwick Street 
-    Blackheath Farmers Market 
-    Bloomsbury Farmers Market 
-    The Blue is the central Bermondsey 
-    Brixton Arts & Craft 
-    Brixton 
-    Brixton Farmers Market 
-    Broadgate 
-    Brockley 
-    Camden Passage Sunday 
-    Chalton Street 
-    Chapel 
-    Chatsworth Road 
-    Chrisp Street 
-    Church Street 
-    Crystal Palace Food 
-    Deptford 
-    Ealing Farmers Market 
-    Earlham Street 
-    East Ham 
-    East Street 
-    Exmouth 
-    Goldborne Road 
-    Goodge Place 
-    Hampstead Artisan 
-    Hays Galleria 
-    Herne Hill 
-    Hildreth Street 
-    Kingston upon Thames 
-    KERB 
-    Lewisham 
-    Lower Marsh 
-    Marylebone farmers 
-    Merton Abbey Mills 
-    Myddleton Road 
-    Nine Elms Sunday 
-    North End Road 
-    Notting Hill Farmers Market 
-    Northcote Road 
-    Northcote Road Antiques 
-    Old Spitalfields Designers/Makers 
-    Spitalfields 
-    Spitalfields 
-    Parliament Hill Farmers Market 
-    Parsons Green Farmers Market 
-    Partridges Food 
-    Pimlico Road Farmers Market 
-    Plender Street 
-    Queen Mary (Mile End) Farmers Market 
-    Queens Crescent 
-    Queens Park Farmers Market 
-    Queens Road 
-    Rathbone 
-    Ridley Road 
-    Roman Road 
-    Romford 
-    Rosewood London Slow Food & Living 
-    Royal Arsenal Farmers Market 
-    South Kensington Farmers Market 
-    Swiss Cottage Farmers Market 
-    Sclater Street Stalls 
-    St Johns Wood Farmers Market 
-    Shepherds Bush 
-    Real Food 
-    Strutton Ground 
-    Surrey Street 
-    Tottenham Green 
-    Tooting 
-    Twickenham Farmers Market 
-    Sunday Up
-    Swiss Cottage 
-    Walthamstow 
-    Walthamstow Farmers Market 
-    The Waste is a 
-    Wimbledon Farmers Market 
-    Well Street 
-    Wembley 
-    Whitechapel 
-    Whitecross Street 
-    Wimbledon - Monthly 
-    Woolwich 
-    
+Archway 
+Balham Farmers Market 
+Barking 
+Battersea High Street 
+Bermondsey Square Farmers Market 
+Berwick Street 
+Blackheath Farmers Market 
+Bloomsbury Farmers Market 
+The Blue is the central Bermondsey 
+Brixton Arts & Craft 
+Brixton 
+Brixton Farmers Market 
+Broadgate 
+Brockley 
+Camden Passage Sunday 
+Chalton Street 
+Chapel 
+Chatsworth Road 
+Chrisp Street 
+Church Street 
+Crystal Palace Food 
+Deptford 
+Ealing Farmers Market 
+Earlham Street 
+East Ham 
+East Street 
+Exmouth 
+Goldborne Road 
+Goodge Place 
+Hampstead Artisan 
+Hays Galleria 
+Herne Hill 
+Hildreth Street 
+Kingston upon Thames 
+KERB 
+Lewisham 
+Lower Marsh 
+Marylebone farmers 
+Merton Abbey Mills 
+Myddleton Road 
+Nine Elms Sunday 
+North End Road 
+Notting Hill Farmers Market 
+Northcote Road 
+Northcote Road Antiques 
+Old Spitalfields Designers/Makers 
+Spitalfields 
+Spitalfields 
+Parliament Hill Farmers Market 
+Parsons Green Farmers Market 
+Partridges Food 
+Pimlico Road Farmers Market 
+Plender Street 
+Queen Mary (Mile End) Farmers Market 
+Queens Crescent 
+Queens Park Farmers Market 
+Queens Road 
+Rathbone 
+Ridley Road 
+Roman Road 
+Romford 
+Rosewood London Slow Food & Living 
+Royal Arsenal Farmers Market 
+South Kensington Farmers Market 
+Swiss Cottage Farmers Market 
+Sclater Street Stalls 
+St Johns Wood Farmers Market 
+Shepherds Bush 
+Real Food 
+Strutton Ground 
+Surrey Street 
+Tottenham Green 
+Tooting 
+Twickenham Farmers Market 
+Sunday Up
+Swiss Cottage 
+Walthamstow 
+Walthamstow Farmers Market 
+The Waste is a 
+Wimbledon Farmers Market 
+Well Street 
+Wembley 
+Whitechapel 
+Whitecross Street 
+Wimbledon - Monthly 
+Woolwich 
+
+Pergola Paddington
+Neverland London
+Magic Roundabout
+Porch Stratford
+Roof East 
+Skylight 
+The Prince, Earl’s Court
+
+Hay's Galleria: 51.5057, -0.0834;
+Canary Wharf: 51.5054, -0.0235;
+Whiteleys: 51.5135, -0.1866;
+St. Martins Courtyard: 51.513075, -0.126698;
+High St Kensington: 51.5005, -0.1897;
+Bluewater Shopping: 51.4389, 0.2711;
+Angel Central: 51.5341, -0.1062;
+Oxford Street: 51.515419, -0.141099;
+Whitgift Street: 51.492709, -0.119395;
+Brent Cross: 51.575273, -0.217721;
+Westfield London: 51.507505, -0.221799;
+Hay's Galleria: 51.505003, -0.084155;
+Boxpark Shoreditch: 51.523494, -0.076248;
+Kingly Court: 51.512305, -0.138406;
+
+
+Public Grounds & Commons
+-----------------------------------------
+Italian Gardens: 51.511325,    -0.175471;
+Allotment Garden: 51.795085, -0.177399;
+Italian Gardens Cafe: 51.511325, -0.175471;
+The Elfin Oak: 51.508641, -0.187934;
+Wanstead Flats: 51.558732, 0.022855;
+Haggerston Park: 51.532957, -0.067362;
+St Dunstan & East Church Garden: 51.509635, -0.082664;
+Chelsea Embankment Gardens: 51.483175, -0.169114;
+Holland Park: 51.50366, -0.207322;
+Ealing Common: 51.509635, -0.289368;
+Greenwich: 51.48006, -0.002217;
+Blackheath: 51.467797, 0.01028;
+Brockwell Park: 51.451637, -0.101199;
+Dulwich Park: 51.445778, -0.079636;
+Clapham Common: 51.458757, -0.146186;
+Richmond Park: 51.4412, 0.2745;
+
+
     
     
  Uk Amazon Lockers
 ----------------------------------
 Achieve Charlie flower Jody ecstatic Kahn Jansen cowboy nerve Leah ostrich chichi dolce penny triangle nails Othello Forest Sheldon Golygon excited hot glue Plato clown Clark Croft Fleming mingle  Marina daydream leap pentagon Paddle cadet shield mode crunch ridge cube ceil granite butter  
-nacho baird idrissa gizmo Norman oracle jackal circus felt giddy angie mustard gumbo brave daffodil orange Dani Gaugin Holly lettuce elbow cortny basket julio onion obelix pop  
-Linnea curry dimple lyrik cactus barnacle farrow pink uriel biff fountain Frank floppy corvo flake Bruce Roast Pluto Castle jingles round minnow fist rational oboe flip flambe juice bill Harold fire crystal Arctic izzy Carter heel leto bonsai Hilde chervil parallel parcel finola fenella Lucas fairy chin peel  
+nacho baird idrissa gizmo Norman oracle jackal circus felt giddy angie mustard gumbo brave daffodil orange Dani Gaugin Holly lettuce elbow cortny basket julio onion obelix pop Linnea curry dimple lyrik cactus barnacle farrow pink uriel biff fountain Frank floppy corvo flake Bruce Roast Pluto Castle jingles round minnow fist rational oboe flip flambe juice bill Harold fire crystal Arctic izzy Carter heel leto bonsai Hilde chervil parallel parcel finola fenella Lucas fairy chin peel  
 
 achieve : Sky Studio Building, --- Grant Way, Isleworth TW7 5QD
 agate : Lewisham Shopping Centre, --- 33a Molesworth St, Lewisham, London SE13 7HB
@@ -318,16 +363,10 @@ topaz : The Co-Op  --- 130-138 garratt lane wandsworth, london sw18 4dj
 wesley : --- 88 Euston Rd, London NW1 2RA
 yoma : The Co-Op  --- 2 chatterton rd, bromley common, bromley br2 9qn
 zinnia : The Co-Op  --- 76-80 Great Eastern St, Shoreditch, London EC2A 3JL
-
-Farmers Markets
----------------------------
-Acton £ 51.5080108, -0.2716250
-Marylebone £
-Notting Hill £
-South Kensington [Tues+Sat] £
-
-
-
+ 
+ 
+ 
+ 
 Uk Radio Stations (major)
 --------------------------
 Bath
@@ -376,13 +415,7 @@ Stoke-on-Trent
 Swansea
 Waterford
 York
-
-
-
-
-UK radio stations
------------------
-
+ 
 
 
 
@@ -697,44 +730,6 @@ Waltham Forest: 51.5908, -0.0134;
 Wandsworth: 51.4567, -0.1910;
 Westminster: 51.4973, -0.1372;
 CIty of London: 51.5155, -0.0922;
-
-
-Shopping
------------
-Hay's Galleria: 51.5057, -0.0834;
-Canary Wharf: 51.5054, -0.0235;
-Whiteleys: 51.5135, -0.1866;
-St. Martins Courtyard: 51.513075, -0.126698;
-High St Kensington: 51.5005, -0.1897;
-Bluewater Shopping: 51.4389, 0.2711;
-Angel Central: 51.5341, -0.1062;
-Oxford Street: 51.515419, -0.141099;
-Whitgift Street: 51.492709, -0.119395;
-Brent Cross: 51.575273, -0.217721;
-Westfield London: 51.507505, -0.221799;
-Hay's Galleria: 51.505003, -0.084155;
-Boxpark Shoreditch: 51.523494, -0.076248;
-Kingly Court: 51.512305, -0.138406;
-
-
-Public Grounds & Commons
------------------------------------------
-Italian Gardens: 51.511325,    -0.175471;
-Allotment Garden: 51.795085, -0.177399;
-Italian Gardens Cafe: 51.511325, -0.175471;
-The Elfin Oak: 51.508641, -0.187934;
-Wanstead Flats: 51.558732, 0.022855;
-Haggerston Park: 51.532957, -0.067362;
-St Dunstan & East Church Garden: 51.509635, -0.082664;
-Chelsea Embankment Gardens: 51.483175, -0.169114;
-Holland Park: 51.50366, -0.207322;
-Ealing Common: 51.509635, -0.289368;
-Greenwich: 51.48006, -0.002217;
-Blackheath: 51.467797, 0.01028;
-Brockwell Park: 51.451637, -0.101199;
-Dulwich Park: 51.445778, -0.079636;
-Clapham Common: 51.458757, -0.146186;
-Richmond Park: 51.4412, 0.2745;
 
 
 Royal Parks
@@ -1149,518 +1144,3 @@ Woodwork
 
 
 
-
-London Points of Interest:
-Acton
-Addington
-Addiscombe
-Albany
-Aldborough
-Aldgate
-Aldwych
-Alperton
-and
-Anerley
-Angel
-Aperfield
-Archway
-Ardleigh
-Arkley
-Arnos
-Balham
-Bankside
-Barbican
-Barking
-Barkingside
-Barnehurst
-Barnes
-Barnet
-Barnsbury
-Battersea
-Bay
-Bayswater
-Beauvoir
-Bec
-Beckenham
-Beckton
-Becontree
-Beddington
-Bedfont
-Bedford
-Belgravia
-Bellingham
-Belmont
-Belsize
-Belvedere
-Bermondsey
-Berrylands
-Bethnal
-Bexley
-Bickley
-Biggin
-Blackfen
-Blackfriars
-Blackheath
-Blackwall
-Blendon
-Bloomsbury
-Botany
-Bottom
-Bounds
-Bow
-Bowes
-Brent
-Brentford
-Bridge
-Brimsdown
-Brixton
-Brockley
-Bromley
-Brompton
-Brondesbury
-Brunswick
-Bulls
-Burnt
-Burroughs
-Bush
-Camberwell
-Cambridge
-Camden
-Canary
-Cann
-Canning
-Canonbury
-Carshalton
-Castelnau
-Castle
-Catford
-Central
-Chadwell
-Chalk
-Charing
-Charlton
-Chase
-Cheam
-Chelsea
-Chelsfield
-Chessington
-Childs
-Chinatown
-Chinbrook
-Chingford
-Chislehurst
-Chiswick
-Church
-City
-Clapham
-Clapton
-Clerkenwell
-Cockfosters
-Colindale
-Collier
-Colliers
-Colney
-Colyers
-Common
-Coney
-Coombe
-Corner
-Cottage
-Coulsdon
-Court
-Covent
-Cowley
-Cranford
-Cranham
-Cray
-Crayford
-Creekmouth
-Crews
-Cricklewood
-Crofton
-Crook
-Cross
-Crossness
-Crouch
-Croydon
-Crystal
-Cubitt
-Cudham
-Custom
-Dagenham
-Dalston
-De
-Denmark
-Deptford
-Derry
-Dogs
-Dollis
-Downe
-Downham
-Downs
-Drayton
-Dulwich
-Ealing
-Earls
-Earlsfield
-East
-Eastcote
-Eden
-Edgware
-Edmonton
-Eel
-Elephant
-Elm
-Elmers
-Elms
-Elmstead
-Eltham
-Emerson
-End
-Enfield
-Erith
-Falconwood
-Farm
-Farringdon
-Feltham
-Finchley
-Finsbury
-Fitzrovia
-Foots
-Ford
-Forest
-Forestdale
-Fortis
-Fortune
-Freezywater
-Friern
-Frognal
-Fulham
-Fulwell
-Gallows
-Gants
-Garden
-Gate
-Gidea
-Giles
-Gipsy
-Goddington
-Golders
-Goodmayes
-Gospel
-Grahame
-Grange
-Green
-Greenford
-Greenwich
-Grove
-Gunnersbury
-Hackney
-Hadley
-Haggerston
-Hainault
-Hale
-Hall
-Ham
-Hammersmith
-Hampstead
-Hampton
-Hanwell
-Hanworth
-Harefield
-Harlesden
-Harlington
-Harmondsworth
-Harold
-Harringay
-Harrow
-Hatch
-Hatton
-Havering-atte-Bower
-Hayes
-Hazelwood
-Heath
-heath
-Helier
-Hendon
-Herne
-Heston
-Highams
-Highbury
-Highgate
-Highway
-Hill
-Hillingdon
-Hither
-Holborn
-Holland
-Holloway
-Homerton
-Honor
-Hook
-Horn
-Hornchurch
-Hornsey
-Hounslow
-House
-Hoxton
-Hyde
-Ickenham
-Ilford
-Island
-Isleworth
-Islington
-James's
-John's
-Johns
-Kenley
-Kennington
-Kensal
-Kensington
-Kentish
-Kenton
-Keston
-Kew
-Kidbrooke
-Kilburn
-King's
-Kings
-Kingsbury
-Kingston
-Knightsbridge
-Ladywell
-Lambeth
-Lamorbey
-Lampton
-Lane
-Lea
-Leamouth
-Leaves
-Lee
-Lessness
-Lewisham
-Leyton
-Leytonstone
-Limehouse
-Lisson
-Little
-Lock
-Locksbottom
-Log
-Longford
-Longlands
-Lower
-Loxford
-Luke's
-Maida
-Malden
-Manor
-Margarets
-Marks
-Marshes
-Mary
-Maryland
-Marylebone
-Mayfair
-Maze
-Merton
-Middle
-Mile
-Mill
-Millbank
-Millwall
-Mitcham
-Monken
-Morden
-Mortlake
-Motspur
-Mottingham
-Muswell
-Neasden
-New
-Newbury
-Newington
-Nine
-Noak
-Norbiton
-Norbury
-North
-Northolt
-Northumberland
-Northwood
-Norwood
-Notting
-Nunhead
-Oak
-Oakleigh
-Ockendon
-of
-Old
-on
-Orpington
-Osidge
-Osterley
-Oval
-Paddington
-Palace
-Palmers
-Pancras
-Park
-Parsons
-Paul's
-Peckham
-Penge
-Pentonville
-Perivale
-Petersham
-Petts
-Pie
-Pimlico
-Pinner
-Plaistow
-Plumstead
-Ponders
-Poplar
-Pratt's
-Preston
-Primrose
-Purley
-Putney
-Quays
-Queen's
-Queensbury
-Rainham
-Ratcliff
-Rayners
-Raynes
-Redbridge
-Richmond
-Riddlesdown
-Roehampton
-Romford
-Rotherhithe
-Row
-Royal
-Ruislip
-Rush
-Rushett
-Ruxley
-Sanderstead
-Sands
-Scrubs
-Selhurst
-Selsdon
-Seven
-Shacklewell
-Shadwell
-Sheen
-Shepherd's
-Shirley
-Shooter's
-Shoreditch
-Sidcup
-Silvertown
-Sipson
-Sisters
-Slade
-sle
-Snaresbrook
-Soho
-Somerstown
-South
-Southall
-Southborough
-Southend
-Southfields
-Southgate
-Spitalfields
-St
-Stamford
-Standard
-Stanmore
-Stepney
-Stockwell
-Stoke
-Stonebridge
-Stratford
-Strawberry
-Streatham
-Stroud
-Sudbury
-Sundridge
-Surbiton
-Surrey
-Sutton
-Swiss
-Sydenham
-Teddington
-Temple
-Thames
-Thamesmead
-The
-the
-Thornton
-Tokyngton
-Tolworth
-Tooting
-Tottenham
-Totteridge
-Tower
-Town
-Tufnell
-Tulse
-Turnpike
-Twickenham
-Upminster
-upon
-Upper
-Upton
-Uxbridge
-Vale
-Vauxhall
-Venice
-Village
-Waddon
-Wallington
-Walthamstow
-Walworth
-Wandsworth
-Wanstead
-Wapping
-Wash
-Weald
-Wealdstone
-Well
-Welling
-Wembley
-Wennington
-West
-Westcombe
-Westminster
-Wharf
-Whetstone
-White
-Whitechapel
-Whitton
-Wick
-Wickham
-Widmore
-Willesden
-Wimbledon
-Winchmore
-Wood
-Woodford
-Woodlands
-Woodside
-Woolwich
-Worcester
-Wormwood
-Yeading
-
-Pergola Paddington
-Neverland London
-Magic Roundabout
-Porch Stratford
-Roof East 
-Skylight 
-The Prince, Earl’s Court
