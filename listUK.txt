@@ -160,56 +160,54 @@ Richmond Park: 51.4412, 0.2745;
     
  Uk Amazon Lockers
 ----------------------------------
-Angie -- Hampshire -- Tangier Road Post Office, 30 Tangier Road, Portsmouth Hampshire PO3 6JN
-Arctic -- Morrisons Sheppey, Neats Court, Queensborough, Isle of Sheppey Kent ME11 5JS
-Baird -- Bournemouth -- Frizzel House, Bournemouth BH1 2NF, United Kingdom
-Basket -- Birmingham -- Colmore Building, 20 Colmore Circus Queensway, Birmingham, Birmingham Birmingham B4 6AT
-Brave -- Manchester -- Manchester Arndale, Dantzic St entrance, Manchester M4 3AQ
-Bruce -- Christ Church Students' Union, St George's Centre, Canterbury, Canterbury Kent CT1 1UT
-Carter -- The Royals Shopping Centre, High street, Southend-on-Sea Essex SS1 1DG
-Charlie -- London -- Chase Farm Hospital, 127 The Ridgeway, Enfield London EN2 8JL
-ChiChi -- Oxford -- Barclays Headington, 105 London Rd, Headington, Oxford OX3 9AH
-Circus -- Manchester -- Soapworks, Colgate Lane, Manchester M5 3LZ
-Clark -- University of Surrey, Manor Park Student Village, Francis Crick Road, Guildford South East GU2 7YW
-Clarke -- Morrisons Kirkcaldy, The Esplanade, Kirkcaldy, Fife Fife KY1 1SL
-Connell -- LSBU, McLaren House, London SE1 0AP
-Cortny -- Birmingham -- Martin's, 47 Sycamore Rd, Bournville, Birmingham B30 2AA
-Cowboy -- High Wycombe -- Bucks Students' Union, Queen Alexandra Rd, High Wycombe HP11 2JZ
-Croft -- Gloucester Green Shopping Centre, Gloucester Green, Oxford OX1 2DF
-Currry -- Crawley -- Crawley Library, Southgate Avenue, Crawley RH10 6HG
-Daffodil -- Stockport -- Morrisons Stockport Reddish, Reddish Road, Stockport SK5 7AA
-Dani -- Wrexham -- Morrisons Wrexham, Ruthin Rd, Wrexham, Wrexham Wrexham LL13 7TU
-Dimple -- Burgess Hill -- The Martlets Shopping Centre, The Martlets, Burgess Hill RH15 9NN
-Dolce -- Oxford -- Templar Square Shopping Centre, 129 Pound Way, Oxford OX4 3XH
-Ecstatic -- London -- Imperial College London, South Kensington, London London SW7 2AZ
-Elbow -- Manchester -- 316 Oxford Rd, Manchester M13 9WJ
-Felt -- Hyde -- Shell Hyde Road Service Station, Mottram in Longdendale, Hyde SK14 6NG
-Finola --  Shell Oaklands Park, 1 Stansted Road, Bishop Stortford, Bishop Stortford Hertfordshire CM23 2DR
-Fizzy -- The Hildreds Shopping Centre, Briar Way, Skegness PE25 3NU
-Fleming -- Victoria Centre Address: 222 Victoria St, Nottingham NG1 3QN
-Flower -- London -- Expedia office, Block one, Angel Square, The Angel London EC1V 1NS
-Gauguin -- Worcester -- University of Worcester, Hines Building, Worcester, England WR2 6AJ
-Giddy -- Stockport -- The Village Square, Bramhall, Stockport SK7 1AW, UK
-Gizmo -- Romsey -- McColl's Romsey, 11 The Cornmarket, Romsey SO51 8GB
-Golygon -- Gloucester -- BP Longlevens Cheltenham Road, 131 Cheltenham Road, Longlevens Gloucester GL2 0JH
-Gumbo -- Crewe -- Shell Crewe Service Station, Bradfield Road, Crewe CW1 3RA
-Harold -- Pentagon Shopping Centre, High Street, Chatham Kent ME4 4HY
-Hilde -- Martins Basildon, 420 Whitmore Way, 420 Whitmore Way, Basildon Essex SS14 2HB
-Holly -- Lancashire -- Middleton Shopping Centre, Limetrees Road, Middleton Lancashire M24 4EL
-Hotel -- Shell Mill Hill , Apex Corner, Mill Hill, London London NW7 3ET
-Idrissa -- Christchurch -- Shell Somerford, Lyndhurst Road, Christchurch BH23 4SA
-Jansen -- Surbiton -- 36 Victoria Rd, Surbiton KT6 4JL
-Jody -- Worcester -- Co-Op Petrol Evesham, A46 Evesham Bypass, Evesham Worcestershire WR11 4TP
-Julio -- Chelmsley Wood -- Chelmsley Wood Shopping Centre, 33 Maple Walk, Chelmsley Wood B37 5TS
-Kang -- Yorkshire & Humber -- Esso Rontec Low Moor, Cleakheaton Road, Low Moor, Bradford Yorkshire and the Humber BD12 0HH
-Leah -- Reading -- Morrisons Reading, Rose Kiln Lane Road, Reading RG2 0HB
-Lettuce -- Stockport -- Morrisons Cheadle Heath, Edgeley Road, Cheadle Heath SK3 0RJ
-Linnea -- Horley -- The Co-operative, Brighton Road, Horley RH6 7ER
-Lizzybet -- Apcoa St Mark's Square Car Park, 5 Simpson's Road, Beckenham Greater London BR2 9AP
-Lucas -- Shell Dagenham -- Wood Lane, Wood Ln, Dagenham RM10 7RP
-Lyric -- Brighton -- Northfield Halls of Residence, University of Sussex, Falmer, Brighton East Sussex BN1 9QU
-Marina -- Morrisons Newquay, Treloggan Road, Newquay Cornwall TR7 2GZ
-Mustard -- Worcester -- The Co-operative, 8/10 The Bullring, St Johns , Worcester WR2 5AH
+Angie -- Hampshire -- Tangier Road Post Office, 30 Tangier Road, Portsmouth Hampshire PO3 6JN -- 50.8086, -1.0608
+Arctic -- Morrisons Sheppey, Neats Court, Queensborough, Isle of Sheppey Kent ME11 5JS -- 51.40964784747883, 0.7580929153438787
+Baird -- Bournemouth -- Frizzel House, Bournemouth BH1 2NF, United Kingdom -- 50.72376683116202, -1.907602289894829
+Basket -- Birmingham -- Colmore Building, 20 Colmore Circus Queensway, Birmingham, Birmingham Birmingham B4 6AT -- 52.483742594758695, -1.8957309021620776
+Brave -- Manchester -- Manchester Arndale, Dantzic St entrance, Manchester M4 3AQ -- 53.48342140363216, -2.2414350420948357
+Bruce -- Christ Church Students' Union, St George's Centre, Canterbury, Canterbury Kent CT1 1UT -- 51.276189450898265, 1.084930856223227
+Carter -- The Royals Shopping Centre, High street, Southend-on-Sea Essex SS1 1DG -- 51.534755567429734, 0.7151166441792935
+Charlie -- London -- Chase Farm Hospital, 127 The Ridgeway, Enfield London EN2 8JL -- 51.6652623830753, -0.10561976137363455
+ChiChi -- Oxford -- Barclays Headington, 105 London Rd, Headington, Oxford OX3 9AH -- 51.76023319538035, -1.2111718022296325
+Circus -- Manchester -- Soapworks, Colgate Lane, Manchester M5 3LZ -- 53.46774692887001, -2.2787573121525395
+Clarke -- Morrisons Kirkcaldy, The Esplanade, Kirkcaldy, Fife Fife KY1 1SL -- 56.097709584656535, -3.162866896690491
+Connell -- LSBU, McLaren House, London SE1 0AP -- 51.499046266904976, -0.10497719751253311
+Cortny -- Birmingham -- Martin's, 47 Sycamore Rd, Bournville, Birmingham B30 2AA -- 52.42953881909598, -1.935292562417592
+Cowboy -- High Wycombe -- Bucks Students' Union, Queen Alexandra Rd, High Wycombe HP11 2JZ -- 51.62852250754887, -0.752914073289174
+Currry -- Crawley -- Crawley Library, Southgate Avenue, Crawley RH10 6HG -- 51.11375047244824, -0.18202450896213843
+Daffodil -- Stockport -- Morrisons Stockport Reddish, Reddish Road, Stockport SK5 7AA -- 53.43674478255185, -2.1591421693115187
+Dani -- Wrexham -- Morrisons Wrexham, Ruthin Rd, Wrexham, Wrexham Wrexham LL13 7TU -- 53.043478156604984, -3.0085466894971518
+Dimple -- Burgess Hill -- The Martlets Shopping Centre, The Martlets, Burgess Hill RH15 9NN -- 50.95583434808067, -0.13187571527624847
+Dolce -- Oxford -- Templar Square Shopping Centre, 129 Pound Way, Oxford OX4 3XH -- 51.73191951037032, -1.2169072693122427
+Ecstatic -- London -- Imperial College London, South Kensington, London London SW7 2AZ -- 51.4987, -0.1782
+Elbow -- Manchester -- 316 Oxford Rd, Manchester M13 9WJ -- 53.46234256113916, -2.2301595439474298
+Felt -- Hyde -- Shell Hyde Road Service Station, Mottram in Longdendale, Hyde SK14 6NG -- 53.45630445109581, -2.0168192423280606
+Finola --  Shell Oaklands Park, 1 Stansted Road, Bishop Stortford, Bishop Stortford Hertfordshire CM23 2DR -- 
+Fizzy -- The Hildreds Shopping Centre, Briar Way, Skegness PE25 3NU -- 
+Fleming -- Victoria Centre Address: 222 Victoria St, Nottingham NG1 3QN -- 
+Flower -- London -- Expedia office, Block one, Angel Square, The Angel London EC1V 1NS -- 
+Gauguin -- Worcester -- University of Worcester, Hines Building, Worcester, England WR2 6AJ -- 
+Giddy -- Stockport -- The Village Square, Bramhall, Stockport SK7 1AW, UK -- 
+Gizmo -- Romsey -- McColl's Romsey, 11 The Cornmarket, Romsey SO51 8GB -- 
+Golygon -- Gloucester -- BP Longlevens Cheltenham Road, 131 Cheltenham Road, Longlevens Gloucester GL2 0JH --  -- 
+Gumbo -- Crewe -- Shell Crewe Service Station, Bradfield Road, Crewe CW1 3RA -- 
+Harold -- Pentagon Shopping Centre, High Street, Chatham Kent ME4 4HY -- 
+Hilde -- Martins Basildon, 420 Whitmore Way, 420 Whitmore Way, Basildon Essex SS14 2HB --  -- 
+Holly -- Lancashire -- Middleton Shopping Centre, Limetrees Road, Middleton Lancashire M24 4EL -- 
+Hotel -- Shell Mill Hill , Apex Corner, Mill Hill, London London NW7 3ET -- 
+Idrissa -- Christchurch -- Shell Somerford, Lyndhurst Road, Christchurch BH23 4SA -- 
+Jansen -- Surbiton -- 36 Victoria Rd, Surbiton KT6 4JL -- 
+Jody -- Worcester -- Co-Op Petrol Evesham, A46 Evesham Bypass, Evesham Worcestershire WR11 4TP -- 
+Julio -- Chelmsley Wood -- Chelmsley Wood Shopping Centre, 33 Maple Walk, Chelmsley Wood B37 5TS -- 
+Kang -- Yorkshire & Humber -- Esso Rontec Low Moor, Cleakheaton Road, Low Moor, Bradford Yorkshire and the Humber BD12 0HH -- 
+Leah -- Reading -- Morrisons Reading, Rose Kiln Lane Road, Reading RG2 0HB -- 
+Lettuce -- Stockport -- Morrisons Cheadle Heath, Edgeley Road, Cheadle Heath SK3 0RJ -- 
+Linnea -- Horley -- The Co-operative, Brighton Road, Horley RH6 7ER -- 
+Lizzybet -- Apcoa St Mark's Square Car Park, 5 Simpson's Road, Beckenham Greater London BR2 9AP -- 
+Lucas -- Shell Dagenham -- Wood Lane, Wood Ln, Dagenham RM10 7RP -- 
+Lyric -- Brighton -- Northfield Halls of Residence, University of Sussex, Falmer, Brighton East Sussex BN1 9QU -- 
+Marina -- Morrisons Newquay, Treloggan Road, Newquay Cornwall TR7 2GZ -- 
+Mustard -- Worcester -- The Co-operative, 8/10 The Bullring, St Johns , Worcester WR2 5AH -- 
 Nails -- Oxfordshire -- Shell Chase, London Road, Bicester Oxfordshire OX26 6HB
 Nerve -- Slough -- Shell Slough East, 85 London Road, Slough SL3 7RS
 Norman -- Telford -- Morrisons Lawley, Gresham Drive, Newdale, Telford TF3 5ES
